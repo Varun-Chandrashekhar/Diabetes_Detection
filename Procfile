@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run penguins-app.py
+sweb: sh setup.sh && streamlit run diabetes_detection.py
